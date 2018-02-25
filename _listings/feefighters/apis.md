@@ -1,0 +1,36 @@
+---
+name: FeeFighters
+description: FeeFighters makes the process of choosing a merchant account provider
+  as easy as shopping for a plane ticket online. In minutes, business owners can choose
+  the best deal on credit card processing with a reverse auction marketplace that
+  saves the average business owner 40 percent on credit card processing. FeeFighters
+  also provides free tools, such as the credit card processing calculator, that help
+  businesses make better decisions about their financial services.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/samurai-fee-fighters.png
+x-kinRank: "9"
+x-alexaRank: ""
+tags:
+- Stack Network
+- Payments gateway
+- Payment
+- Finance
+created: "2018-02-25"
+modified: "2018-02-25"
+url: https://raw.githubusercontent.com/streamdata-gallery/finance/master/_listings/feefighters/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/transparent-financial-services
+- type: x-github
+  url: https://github.com/FeeFighters
+- type: x-twitter
+  url: https://twitter.com/feefighters
+- type: x-website
+  url: https://samurai.feefighters.com/developers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
